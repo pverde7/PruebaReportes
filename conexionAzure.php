@@ -1,8 +1,8 @@
 ﻿<?php
 
-	$username = 'eu-cdbr-azure-west-d.cloudapp.net';
+	$username = 'b4318bee120834';
 	$password = 'e694312a';
-	$server = 'b4318bee120834'; 
+	$server = 'eu-cdbr-azure-west-d.cloudapp.net'; 
 	$database = 'tabla';
 
 	$info = [ 'Database'=>$database, 'UID'=>$username, 'PWD'=>$password, 'CharacterSet' => 'UTF-8' ]; 
