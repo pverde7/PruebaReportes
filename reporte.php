@@ -1,6 +1,6 @@
 <?php
 
-    require("conexionAzure.php");
+    require("conexion.php");
 
 
 ?>
